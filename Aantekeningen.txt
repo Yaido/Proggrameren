@@ -1,0 +1,4 @@
+Modulo (%): Restwaarde na deling
+
+If statements: Een bepaalde voorwaarde
+
